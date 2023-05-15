@@ -26,3 +26,23 @@ samples, guidance on mobile development, and a full API reference.
   <img src="https://github.com/darshansankhat/media_booster/assets/119835050/7b913395-8404-4b6f-9f70-53dca77e3611" height="60%" width="30%">
   
   </p>
+
+
+# Video Player
+
+<p>
+ 
+  <img src="" height="60%" width="30%">
+  <img src="" height="60%" width="30%">
+  <img src="" height="60%" width="30%">
+  
+  </p>
+  
+# Staggered Ui
+
+<p>
+  
+  <img src="https://github.com/darshansankhat/media_booster/assets/119835050/0bcbae58-7661-40fa-ad30-46b72d639b7e" height="60%" width="30%">
+  <img src="https://github.com/darshansankhat/media_booster/assets/119835050/521e5ff4-7b8b-47e1-9bb1-22976d6a9349" height="60%" width="30%">
+  
+  </p>
