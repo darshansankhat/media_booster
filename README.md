@@ -52,10 +52,8 @@ samples, guidance on mobile development, and a full API reference.
 
 <p>
   
-  <img src="![Screenshot_20230515_003348_iphone13promaxgold_portrait](https://github.com/darshansankhat/media_booster/assets/119835050/95c1d64c-c266-4f21-ac72-ec34d480f76a)
-" height="60%" width="30%">
-  <img src="![Screenshot_20230515_003401_iphone13promaxgold_portrait](https://github.com/darshansankhat/media_booster/assets/119835050/b37a042c-b3fc-4e6b-9169-6d9694f87a72)
-" height="60%" width="30%">
- 
-  
+  <img src="https://github.com/darshansankhat/media_booster/assets/119835050/f3987a5f-4a84-459d-af52-986733eeaa5e" height="60%" width="30%">
+  <img src="https://github.com/darshansankhat/media_booster/assets/119835050/ba91ea77-b995-4c38-baa5-e3af0fce267d" height="60%" width="30%">
+  <img src="https://github.com/darshansankhat/media_booster/assets/119835050/2b69f2e6-cb31-4781-968c-1393f9d3143f" height="60%" width="30%">
+   
   </p>
