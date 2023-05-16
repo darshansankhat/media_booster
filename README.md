@@ -54,7 +54,6 @@ samples, guidance on mobile development, and a full API reference.
   
   <img src="![Screenshot_20230515_003348_iphone13promaxgold_portrait](https://github.com/darshansankhat/media_booster/assets/119835050/95c1d64c-c266-4f21-ac72-ec34d480f76a)
 " height="60%" width="30%">
-   <img src="" height="60%" width="30%">
   <img src="![Screenshot_20230515_003401_iphone13promaxgold_portrait](https://github.com/darshansankhat/media_booster/assets/119835050/b37a042c-b3fc-4e6b-9169-6d9694f87a72)
 " height="60%" width="30%">
  
